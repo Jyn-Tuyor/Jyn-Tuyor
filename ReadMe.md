@@ -7,7 +7,7 @@ Web dev is a burn out and I'm always on it, so I'm always burned out
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jyn-Tuyor&theme=gruvbox_lightx&hide_border=false&include_all_commits=false&count_private=true"/><br/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Jyn-Tuyor&theme=gruvbox_lightx&hide_border=false&include_all_commits=false&count_private=true"/><br/> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=Jyn-Tuyor&theme=gruvbox_light&hide_border=false"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyn-Tuyor&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 </p>
