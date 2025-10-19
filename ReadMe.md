@@ -1,5 +1,5 @@
 ### hey
-Web dev is a burn out and I'm always on it, so I'm always burned out,<br>
+Web dev is a burn out and I'm always on it, so I'm always burned out;<br>
 backend and networking is what interests me.
 
 ### 🖥️ tech stack
