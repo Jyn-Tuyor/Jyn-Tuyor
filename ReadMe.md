@@ -1,20 +1,22 @@
-### hey
-Web dev is a burn out and I'm always on it, so I'm always burned out;<br>
-backend and networking is what interests me.
+<h1 align="center">こんにちは 🐻 I'm douwjyn</h1>
 
-### 🖥️ tech stack
+<p align="center"><strong> Web dev is a burnout and I'm stuck on it. Networking and databases is what interests me</strong></p>
 
 <p align="center">
-  
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black"/><br>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
-  <br>
-
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Jyn-Tuyor&theme=gruvbox&row=1&column=6"/>
 </p>
+
+- 🌱 I’m currently learning **Vue.js**, **Express.js** and exploring **Full-Stack Web Development**
+- 🎓 I’m currently a freshman BSIT at University of Science and Technology of Southern Philippines **(USTP)** CDO
+- 💻 I enjoy building applications with **Node.js**, **Prisma**, and **TypeScript**, and learning **networking** stuffs
+- ✉️ Reach me through [Facebook](https://www.facebook.com/jo.jyn626)
+
+<h4 align="center">Languages & Tools</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,mysql,python,github,tailwind,c,vscode,postman,laravel,sqlite,vuetify,materialui&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyn-Tuyor&layout=compact&theme=gruvbox" alt="Top Langs" />
+</p>
+
