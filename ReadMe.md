@@ -15,8 +15,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,mysql,python,github,tailwind,c,vscode,postman,laravel,sqlite,vuetify,mongodb&perline=10" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyn-Tuyor&layout=compact&theme=gruvbox" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyn-Tuyor&layout=donut&theme=gruvbox" alt="Top Langs" />
+
 </p>
 
