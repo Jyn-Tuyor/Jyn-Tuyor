@@ -1,7 +1,7 @@
 <h1 align="center">こんにちは 🐻 I'm douwjyn</h1>
 
 <p align="center"><strong> Web dev is a burnout and I'm stuck on it. Networking and databases is what interests me</strong></p>
-
+ 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jyn-Tuyor&theme=gruvbox&row=1&column=6"/>
 </p>
