@@ -8,8 +8,8 @@
 
 - currently learning **Vue.js**, **Express.js (TS)** and exploring **Full-Stack Web Development**
 - currently a freshman BSIT at University of Science and Technology of Southern Philippines **(USTP)** CDO
-- I enjoy building applications with **Node.js**, **Prisma**, and **TypeScript**, and learning **networking** stuffs
-- Reach me through [Facebook](https://www.facebook.com/jo.jyn626)
+- i enjoy building applications with **Node.js**, **Prisma**, and **TypeScript**, and learning **networking** stuffs
+- reach me through [Facebook](https://www.facebook.com/jo.jyn626)
 
 <h4 align="center">Languages & Tools</h4>
 <p align="center">
