@@ -1,6 +1,6 @@
 <h1 align="center">こんにちは ❗ I'm douwjyn</h1>
 
-<p align="center"><strong>x<i>beginner</i></strong></p>
+<p align="center"><strong><i>beginner</i></strong></p>
  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jyn-Tuyor&theme=gruvbox&row=1&column=6"/>
