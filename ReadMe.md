@@ -1,6 +1,6 @@
 <h1 align="center">こんにちは 🐻 I'm douwjyn</h1>
 
-<p align="center"><strong>i js wnna learn</strong></p>
+<p align="center"><strong>future network engineer</strong></p>
  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jyn-Tuyor&theme=gruvbox&row=1&column=6"/>
