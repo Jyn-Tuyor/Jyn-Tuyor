@@ -26,7 +26,7 @@
     </td>
     <td align="center" width="50%">
       <h4>Languages & Tools</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,mysql,python,bootstrap,tailwind,c,vscode,postman,laravel,dart,flutter,mongodb&perline=10" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,mysql,python,bootstrap,tailwind,yarn,vscode,postman,laravel,dart,flutter,mongodb&perline=10" />
       <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyn-Tuyor&layout=compact&langs_count=10&theme=gruvbox" />
     </td>
