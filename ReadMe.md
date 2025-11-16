@@ -1,7 +1,8 @@
 ## こんにちは, Douwjyn です🍣
 
 `INTP, so introverted and lazy; I find developing softwares fun`
-<img align="right" src="https://github.com/user-attachments/assets/998819c8-3d09-4d35-ba21-2d090ab79a07" width="250"/>
+
+<img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/>
 
 - Currently a freshman BSIT at USTP-CDO
 - I enjoy building web apps, and mobile apps <i>(I'm not that good at it yet)</i>
@@ -19,7 +20,7 @@
 <table align="center">
   <tr>
     <td align="center" width="270">
-      <img src="https://github.com/user-attachments/assets/1d5c333b-ea2f-4f23-9ec6-4668af79dc62" width="250" />
+      <img align="right" src="https://github.com/user-attachments/assets/998819c8-3d09-4d35-ba21-2d090ab79a07" width="250"/>
     </td>
     <td align="center">
       <h4>Languages & Tools</h4>
