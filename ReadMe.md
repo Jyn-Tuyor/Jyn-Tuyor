@@ -17,15 +17,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Jyn-Tuyor&theme=gruvbox&row=1&column=6"/>
 </p>
   
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="270">
-      <img align="right" src="https://github.com/user-attachments/assets/998819c8-3d09-4d35-ba21-2d090ab79a07" width="250"/>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/998819c8-3d09-4d35-ba21-2d090ab79a07" width="200"/>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <h4>Languages & Tools</h4>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,mysql,python,bootstrap,tailwind,c,vscode,postman,laravel,dart,flutter,mongodb&perline=10" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyn-Tuyor&layout=compact&langs_count=10&theme=gruvbox" alt="Top Langs" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyn-Tuyor&layout=compact&langs_count=10&theme=gruvbox" />
     </td>
   </tr>
-</table>  
+</table>
