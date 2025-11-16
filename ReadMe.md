@@ -1,6 +1,4 @@
 ## こんにちは, Douwjyn です🍣
- 
-
 
 `INTP, so introverted and lazy; I find developing softwares fun`
 
