@@ -1,16 +1,20 @@
-<h1 align="center">こんにちは ❗ I'm douwjyn</h1>
-
-<p align="center"><strong><i></i></strong></p>
+## こんにちは, Douwjyn です🍣
  
+
+
+`INTP, so introverted and lazy; I find developing softwares fun`
+
+- Currently a freshman BSIT at USTP-CDO
+- I enjoy building web apps, and mobile apps <i>(I'm not that good at it yet)</i>
+- I like NewJeans and Japanese songs;
+- I love learning more on softwares and networking
+  
+### 💬 Reach me here!
+[![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=000000&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jyn-Tuyor&theme=gruvbox&row=1&column=6"/>
 </p>
-
-- currently learning **Vue.js**, **Express.js (TS)** and exploring **Full-Stack Web Development**
-- currently a freshman BSIT at University of Science and Technology of Southern Philippines **(USTP)** CDO
-- i enjoy building applications with **Node.js**, **Prisma**, and **TypeScript**, and learning **networking** stuffs
-- reach me through [Facebook](https://www.facebook.com/jo.jyn626)
-
   
 <table align="center">
   <tr>
