@@ -4,6 +4,8 @@
 
 `INTP, so introverted and lazy; I find developing softwares fun`
 
+<img align="right" src="https://github.com/user-attachments/assets/c9ab40b5-f2fb-414d-a2db-0c3e10adc87e"/>
+
 - Currently a freshman BSIT at USTP-CDO
 - I enjoy building web apps, and mobile apps <i>(I'm not that good at it yet)</i>
 - I like NewJeans and Japanese songs
