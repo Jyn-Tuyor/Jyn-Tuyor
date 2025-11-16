@@ -11,12 +11,16 @@
 - i enjoy building applications with **Node.js**, **Prisma**, and **TypeScript**, and learning **networking** stuffs
 - reach me through [Facebook](https://www.facebook.com/jo.jyn626)
 
-<h4 align="center">Languages & Tools</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,mysql,python,bootstrap,tailwind,c,vscode,postman,laravel,dart,flutter,mongodb&perline=10" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyn-Tuyor&layout=compact&langs_count=10&theme=gruvbox" alt="Top Langs" />
-
-</p>
-
+  
+<table align="center">
+  <tr>
+    <td align="center" width="270">
+      <img src="https://github.com/user-attachments/assets/1d5c333b-ea2f-4f23-9ec6-4668af79dc62" width="250" />
+    </td>
+    <td align="center">
+      <h4>Languages & Tools</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,mysql,python,bootstrap,tailwind,c,vscode,postman,laravel,dart,flutter,mongodb&perline=10" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyn-Tuyor&layout=compact&langs_count=10&theme=gruvbox" alt="Top Langs" />
+    </td>
+  </tr>
+</table>  
