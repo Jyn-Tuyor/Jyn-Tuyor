@@ -6,8 +6,9 @@
 
 - Currently a freshman BSIT at USTP-CDO
 - I enjoy building web apps, and mobile apps <i>(I'm not that good at it yet)</i>
-- I like NewJeans and Japanese songs;
+- I like NewJeans and Japanese songs
 - I love learning more on softwares and networking
+- I'm a beginner at everything
   
 ### 💬 Reach me here!
 [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=000000&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
