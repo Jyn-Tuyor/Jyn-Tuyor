@@ -35,7 +35,7 @@
 
 <h4 align="center">Languages & Tools</h4>
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,mysql,python,bootstrap,tailwind,yarn,vscode,postman,laravel,dart,flutter,mongodb&perline=10" />
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,tailwind,yarn&perline=11" />
   <br/>
   <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dojimori&layout=compact&langs_count=10&theme=gruvbox" />
