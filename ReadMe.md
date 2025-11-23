@@ -19,7 +19,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dojimori&theme=gruvbox&row=1&column=6"/>
 </p>
   
-<table>
+<!-- <table>
   <tr>
     <td align="center" width="50%">
       <img src="https://github.com/user-attachments/assets/318055ec-6167-4a0a-b7a3-6905d01ae75c" width="200"/>
@@ -31,4 +31,15 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dojimori&layout=compact&langs_count=10&theme=gruvbox" />
     </td>
   </tr>
-</table>
+</table> -->
+
+<h4 align="center">Languages & Tools</h4>
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,mysql,python,bootstrap,tailwind,yarn,vscode,postman,laravel,dart,flutter,mongodb&perline=10" />
+  <br/>
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dojimori&layout=compact&langs_count=10&theme=gruvbox" />
+</p>
+
+
+
