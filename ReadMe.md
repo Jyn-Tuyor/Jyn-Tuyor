@@ -16,7 +16,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=000000&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jyn-Tuyor&theme=gruvbox&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dojimori&theme=gruvbox&row=1&column=6"/>
 </p>
   
 <table>
@@ -28,7 +28,7 @@
       <h4>Languages & Tools</h4>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,mysql,python,bootstrap,tailwind,yarn,vscode,postman,laravel,dart,flutter,mongodb&perline=10" />
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyn-Tuyor&layout=compact&langs_count=10&theme=gruvbox" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dojimori&layout=compact&langs_count=10&theme=gruvbox" />
     </td>
   </tr>
 </table>
