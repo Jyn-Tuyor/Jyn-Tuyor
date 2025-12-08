@@ -4,14 +4,15 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      # Checkout the repo (required for pushing)
+      - uses: actions/checkout@v3
+
+      # Generate the snake animation
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -19,6 +20,7 @@ jobs:
             dist/snake.svg
             dist/snake.gif
 
+      # Deploy to the output branch
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v4
         with:
