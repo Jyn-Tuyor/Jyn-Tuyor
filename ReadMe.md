@@ -41,5 +41,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dojimori&layout=compact&langs_count=10&theme=gruvbox" />
 </p>
 
-![Snake dark](https://raw.githubusercontent.com/dojimori/dojimori/output/snake.svg#gh-dark-mode-only)
+<img src="https://raw.githubusercontent.com/dojimori/dojimori/output/snake.svg?palette=github-dark">
 
