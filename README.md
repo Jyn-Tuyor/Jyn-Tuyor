@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/> 
 
-- Currently a freshman BSIT student @USTP-Cagayan De Oro
+- Currently a freshman BSIT student <strong>@USTP-Cagayan De Oro</strong>
 - I enjoy building web apps, and mobile apps <i>(I'm not that good at it yet)</i>
 - I like NewJeans and Japanese songs
 - I love learning more on softwares and networking
