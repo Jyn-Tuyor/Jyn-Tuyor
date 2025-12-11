@@ -2,11 +2,11 @@
 ![FromKlickPinCFGhimcaWildermanNiotrnNewjeanstrong2025-ezgif com-resize](https://github.com/user-attachments/assets/e244e79d-9997-483a-9bd8-7dddd4a8eaa5)
 ## こんにちは, dojimori です!🍣
 
-`INTP, so introverted and lazy; I find developing softwares fun`
+`INTP, so introverted and lazy. I find developing softwares fun`
 
 <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/> 
 
-- Currently a freshman BSIT at USTP-CDO
+- Currently a freshman BSIT student @USTP-Cagayan De Oro
 - I enjoy building web apps, and mobile apps <i>(I'm not that good at it yet)</i>
 - I like NewJeans and Japanese songs
 - I love learning more on softwares and networking
