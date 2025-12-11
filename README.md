@@ -16,7 +16,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=000000&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dojimori&theme=gruvbox&row=1&column=6"/>
+  <!--<img src="https://github-profile-trophy.vercel.app/?username=dojimori&theme=gruvbox&row=1&column=6"/>-->
 </p>
   
 <!-- <table>
@@ -38,14 +38,16 @@
   <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,tailwind,yarn&perline=11" />
   <br/>
   <br/>
+  <!--
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dojimori&layout=compact&langs_count=10&theme=gruvbox" />
+  -->
 </p>
-
+<!-- 
 <img src="https://raw.githubusercontent.com/dojimori/dojimori/output/snake.svg?palette=github-dark">
-
-<picture>
+-->
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
+-->
