@@ -38,13 +38,10 @@
   <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,tailwind,yarn&perline=11" />
   <br/>
   <br/>
-  <!--
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dojimori&layout=compact&langs_count=10&theme=gruvbox" />
-  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dojimori&layout=donut-vertical&langs_count=10&theme=gruvbox />
+
 </p>
-<!-- 
-<img src="https://raw.githubusercontent.com/dojimori/dojimori/output/snake.svg?palette=github-dark">
--->
+
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
