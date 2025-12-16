@@ -32,10 +32,27 @@
     </td>
   </tr>
 </table> -->
-
 <h4 align="center">Languages & Tools</h4>
-<p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,tailwind,yarn&perline=11" />
-</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dojimori&layout=donut-vertical&theme=gruvbox&langs_count=10&stats_format=bytes)](https://github.com/anuraghazra/github-readme-stats)
+<table width="100%">
+  <tr>
+    <th align="center">Skills</th>
+    <th align="center">Top Languages</th>
+  </tr>
+  <tr>
+    <td align="center" width="60%">
+      <img
+        src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,tailwind,yarn&perline=6"
+      />
+    </td>
+    <td align="center" width="40%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=dojimori&layout=donut-vertical&theme=gruvbox&langs_count=10&stats_format=bytes"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
