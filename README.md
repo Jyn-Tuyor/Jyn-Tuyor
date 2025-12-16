@@ -35,10 +35,10 @@
 <h4 align="center">Languages & Tools</h4>
 
 <table width="100%">
-  <tr>
+  <!-- <tr>
     <th align="center">Skills</th>
     <th align="center">Top Languages</th>
-  </tr>
+  </tr> -->
   <tr>
     <td align="center" width="60%">
       <img
