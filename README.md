@@ -42,7 +42,7 @@
   <tr>
     <td align="center" width="60%">
       <img
-        src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,tailwind,yarn&perline=6"
+        src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,tailwind,yarn,mysql&perline=6"
       />
     </td>
     <td align="center" width="40%">
