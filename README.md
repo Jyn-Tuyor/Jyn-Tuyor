@@ -36,7 +36,6 @@
 <h4 align="center">Languages & Tools</h4>
 <p align="center">
   <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,tailwind,yarn&perline=11" />
-  <br/>
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dojimori&layout=donut-vertical&langs_count=10&theme=gruvbox />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dojimori&layout=donut-vertical&theme=gruvbox&langs_count=10&stats_format=bytes)](https://github.com/anuraghazra/github-readme-stats)
