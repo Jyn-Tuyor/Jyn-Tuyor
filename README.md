@@ -3,7 +3,7 @@
 ## こんにちは, dojimori です!🍣
 
 `INTP, so introverted and lazy. I find developing softwares fun`
-
+ 
 <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/> 
 
 - Currently a freshman BSIT student <strong>@USTP-Cagayan De Oro</strong>
