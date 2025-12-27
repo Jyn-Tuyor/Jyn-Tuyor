@@ -2,15 +2,19 @@
 ![FromKlickPinCFGhimcaWildermanNiotrnNewjeanstrong2025-ezgif com-resize](https://github.com/user-attachments/assets/e244e79d-9997-483a-9bd8-7dddd4a8eaa5)
 ## こんにちは, dojimori です!🍣
 
+ <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/> 
+
 `INTP, so introverted and lazy. I find developing softwares fun`
  
-<img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/> 
+
 
 - Currently a freshman BSIT student <strong>@USTP-Cagayan De Oro</strong>
 - I enjoy building web apps, and mobile apps for fun
 - I love learning more on softwares and networking
 - I'm a beginner at everything
-  
+
+
+
 ## Message me
 [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=000000&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
 
@@ -54,4 +58,5 @@
  <p align="center">
  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,tailwind,yarn,mysql&perline=12"/>
  </p>
+
 
