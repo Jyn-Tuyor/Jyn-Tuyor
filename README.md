@@ -32,13 +32,10 @@
     </td>
   </tr>
 </table> -->
-<h4 align="center">Languages & Tools</h4>
+<!-- <h4 align="center">Languages & Tools</h4> -->
 
-<table width="100%">
-  <!-- <tr>
-    <th align="center">Skills</th>
-    <th align="center">Top Languages</th>
-  </tr> -->
+<!-- <table width="100%">
+
   <tr>
     <td align="center" width="60%">
       <img
@@ -53,6 +50,8 @@
       </a>
     </td>
   </tr>
-</table>
-
+</table> -->
+ <p align="center">
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,tailwind,yarn,mysql&perline=12"/>
+ </p>
 
