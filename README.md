@@ -6,19 +6,13 @@
 
 `INTP, so introverted and lazy. I find developing softwares fun`
  
-
-
-- Currently a freshman BSIT student <strong>@USTP-Cagayan De Oro</strong>
-- I enjoy building web apps, and mobile apps for fun
+`freshman BSIT student` <strong>@USTP-Cagayan De Oro</strong>
+<!-- I enjoy building web apps, and mobile apps for fun
 - I love learning more on softwares and networking
 - I'm a beginner at everything
+-->
 
-
-
-## Message me
-[![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=000000&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
-
-## 
+💬 [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=000000&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
 <p align="center">
   <!--<img src="https://github-profile-trophy.vercel.app/?username=dojimori&theme=gruvbox&row=1&column=6"/>-->
 </p>
