@@ -1,7 +1,7 @@
 
 ![FromKlickPinCFGhimcaWildermanNiotrnNewjeanstrong2025-ezgif com-resize](https://github.com/user-attachments/assets/e244e79d-9997-483a-9bd8-7dddd4a8eaa5)
-## こんにちは, dojimori です!
-
+<!--## こんにちは, dojimori です!-->
+### hi
  <img align="left" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/> 
 
 `INTP, so introverted and lazy. programming is my escape from reality.`
