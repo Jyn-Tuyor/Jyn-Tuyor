@@ -6,7 +6,7 @@
 
 `INTP, so introverted and lazy. programming is my escape from reality.`
 ``` bash 
-freshman BSIT student @USTP-Cagayan De Oro City
+echo "freshman BSIT student @USTP-Cagayan De Oro City"
 ```
 <!-- I enjoy building web apps, and mobile apps for fun
 - I love learning more on softwares and networking
