@@ -5,6 +5,7 @@
 
 <!--`INTP, so introverted and lazy. programming is my escape from reality.`-->
 <p align='center'><i >Freshman BSIT student at <strong>USTP-Cagayan De Oro City</strong></i></p>
+<p align='center'><i ><strong>IT1R6</strong></i></p>
 <!-- I enjoy building web apps, and mobile apps for fun
 - I love learning more on softwares and networking
 - I'm a beginner at everything
