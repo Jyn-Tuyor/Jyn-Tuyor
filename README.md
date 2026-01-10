@@ -4,15 +4,14 @@
 <!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/> -->
 
 <!--`INTP, so introverted and lazy. programming is my escape from reality.`-->
-Freshman BSIT student at USTP-Cagayan De Oro City
-
+<p align='center'><i >Freshman BSIT student at <strong>USTP-Cagayan De Oro City</strong></i></p>
 <!-- I enjoy building web apps, and mobile apps for fun
 - I love learning more on softwares and networking
 - I'm a beginner at everything
 -->
-
-[![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=000000&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
 <p align="center">
+  
+  [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=000000&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
   <!--<img src="https://github-profile-trophy.vercel.app/?username=dojimori&theme=gruvbox&row=1&column=6"/>-->
 </p>
   
