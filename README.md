@@ -1,13 +1,11 @@
 
 ![FromKlickPinCFGhimcaWildermanNiotrnNewjeanstrong2025-ezgif com-resize](https://github.com/user-attachments/assets/e244e79d-9997-483a-9bd8-7dddd4a8eaa5)
 <!--## こんにちは, dojimori です!-->
-### hi
- <img align="left" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/> 
+<!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/> -->
 
-`INTP, so introverted and lazy. programming is my escape from reality.`
-``` bash 
-echo "freshman BSIT student @USTP-Cagayan De Oro City"
-```
+<!--`INTP, so introverted and lazy. programming is my escape from reality.`-->
+Freshman BSIT student at USTP-Cagayan De Oro City
+
 <!-- I enjoy building web apps, and mobile apps for fun
 - I love learning more on softwares and networking
 - I'm a beginner at everything
@@ -50,7 +48,7 @@ echo "freshman BSIT student @USTP-Cagayan De Oro City"
     </td>
   </tr>
 </table> -->
- <p align="center">
+<!-- <p align="center">
  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,prisma,tailwind,yarn,mysql&perline=12"/>
  </p>
 
