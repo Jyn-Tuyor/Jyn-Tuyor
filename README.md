@@ -4,8 +4,7 @@
 <!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/>  -->
 ## 
 
-
-<img width="388" align="right" src="https://github.com/user-attachments/assets/b9b7c48b-a2f2-4042-b5f6-dda399afd11d"/>
+<img width="388" align="right" src="https://github.com/user-attachments/assets/eaeca6a6-8d90-455d-a259-f6a994feef89"/>
 <!-- <img width="200" align="right" src="https://github.com/user-attachments/assets/7f6d5353-9d67-4e46-b9f1-80dd15a573cb"/> -->
   
 [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=000000&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
