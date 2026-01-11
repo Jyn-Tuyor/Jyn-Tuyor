@@ -5,7 +5,6 @@
 ## 
 
 <img width="388" align="right" src="https://github.com/user-attachments/assets/eaeca6a6-8d90-455d-a259-f6a994feef89"/>
-<!-- <img width="200" align="right" src="https://github.com/user-attachments/assets/7f6d5353-9d67-4e46-b9f1-80dd15a573cb"/> -->
   
 [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=000000&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
   <!--<img src="https://github-profile-trophy.vercel.app/?username=dojimori&theme=gruvbox&row=1&column=6"/>-->
@@ -16,6 +15,8 @@
 
 <p align='left'>Freshman BSIT student @ <strong>USTP-Cagayan De Oro City</strong></p>
 <p align='left'><i ><strong>R6</strong></i></p>
+<img width="200" align="left" src="https://github.com/user-attachments/assets/7f6d5353-9d67-4e46-b9f1-80dd15a573cb"/>
+
 <!-- I enjoy building web apps, and mobile apps for fun
 - I love learning more on softwares and networking
 - I'm a beginner at everything
