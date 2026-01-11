@@ -15,7 +15,7 @@
 
 <p align='left'>Freshman BSIT student @ <strong>USTP-Cagayan De Oro City</strong></p>
 <p align='left'><i ><strong>R6</strong></i></p>
-<img width="200" align="left" src="https://github.com/user-attachments/assets/7f6d5353-9d67-4e46-b9f1-80dd15a573cb"/>
+<img width="144" align="left" src="https://github.com/user-attachments/assets/7f6d5353-9d67-4e46-b9f1-80dd15a573cb"/>
 
 <!-- I enjoy building web apps, and mobile apps for fun
 - I love learning more on softwares and networking
